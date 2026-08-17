@@ -2,7 +2,7 @@
 
 ### Data Analyst | BI Developer | SQL | ETL | Power BI
 
-I'm a **Data Analyst / BI Developer with 2.9 years of professional experience** working primarily in the **banking and financial services domain**.
+I'm a **Data Analyst / BI Developer with 3 years of professional experience** working primarily in the **banking and financial services domain**.
 
 I specialize in **SQL, PostgreSQL, SQL Server, SSIS, Power BI, Python, and ETL development**, with experience in building MIS reports, optimizing database queries, and automating data workflows.
 
